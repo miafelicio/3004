@@ -1,0 +1,16 @@
+C:\3004\obj\Debug\net5.0\3004.csproj.AssemblyReference.cache
+C:\3004\obj\Debug\net5.0\3004.GeneratedMSBuildEditorConfig.editorconfig
+C:\3004\obj\Debug\net5.0\3004.AssemblyInfoInputs.cache
+C:\3004\obj\Debug\net5.0\3004.AssemblyInfo.cs
+C:\3004\obj\Debug\net5.0\3004.csproj.CoreCompileInputs.cache
+C:\3004\bin\Debug\net5.0\3004.exe
+C:\3004\bin\Debug\net5.0\3004.deps.json
+C:\3004\bin\Debug\net5.0\3004.runtimeconfig.json
+C:\3004\bin\Debug\net5.0\3004.runtimeconfig.dev.json
+C:\3004\bin\Debug\net5.0\3004.dll
+C:\3004\bin\Debug\net5.0\ref\3004.dll
+C:\3004\bin\Debug\net5.0\3004.pdb
+C:\3004\obj\Debug\net5.0\3004.dll
+C:\3004\obj\Debug\net5.0\ref\3004.dll
+C:\3004\obj\Debug\net5.0\3004.pdb
+C:\3004\obj\Debug\net5.0\3004.genruntimeconfig.cache
